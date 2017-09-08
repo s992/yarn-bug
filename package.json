@@ -1,0 +1,9 @@
+{
+  "name": "yarn-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "bug": "echo $(yarn bin)"
+  }
+}
